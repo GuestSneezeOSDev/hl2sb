@@ -71,5 +71,9 @@
 		"label" "#GameUI_GameMenu_Quit"
 		"command" "Quit"
 	}
+	"13"
+	{
+		"label" "Singleplayer"
+		"command" "exec singleplayer"
+	}
 }
-
