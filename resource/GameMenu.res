@@ -1,3 +1,5 @@
+// Copyright Vortex
+// For more information visit https://github.com/Vortex-Reborn/vortex-engine/tree/master/vortex_cfg
 "GameMenu"
 {
 	"1"
